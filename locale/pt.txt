@@ -4,10 +4,10 @@
 
 ### URL
 LinkBehaviour_51B53E0F_79F7_F428_41D8_461E9F57AC66.source = https://api.whatsapp.com/send?phone=554891709444
-LinkBehaviour_BC423D4B_AE84_500F_41E3_AEEDE2EBDE06.source = https://t.me/thiago360graus
-LinkBehaviour_B81F37F5_AE9C_D01B_41DC_D06F09C616B9.source = https://t.me/thiago360graus
 LinkBehaviour_BEB6694D_8B13_962A_419C_1720EAAFBAA4.source = https://t.me/thiago360graus
 LinkBehaviour_B8137BBC_AE9C_F009_41C7_4AAB15C093DF.source = https://t.me/thiago360graus
+LinkBehaviour_BC423D4B_AE84_500F_41E3_AEEDE2EBDE06.source = https://t.me/thiago360graus
+LinkBehaviour_B81F37F5_AE9C_D01B_41DC_D06F09C616B9.source = https://t.me/thiago360graus
 LinkBehaviour_590F0042_79F8_CC18_41DC_E0CB73106328.source = https://www.instagram.com/publiquepublicidade360/
 
 ## Hotspot
@@ -45,8 +45,8 @@ panorama_441A1787_74F7_F91A_41B8_1EF4DA704BB9.label = SALA JEFERSON
 panorama_F0EAE465_813D_9D6E_4192_DDCD33C257D9.label = SALÃO CENTRAL copiar
 
 ### Video
-videolevel_13B16AF4_815D_956D_41D9_B62064F3D5C2.posterURL = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_poster_pt.jpg
-videolevel_13B16AF4_815D_956D_41D9_B62064F3D5C2.url = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_pt.mp4
+videolevel_3A7CA92C_8143_74FD_41CA_4B9800E662ED.posterURL = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_poster_pt.jpg
+videolevel_3A7CA92C_8143_74FD_41CA_4B9800E662ED.url = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_pt.mp4
 
 ## Skin
 
@@ -61,4 +61,4 @@ Image_9A531F1A_8F31_F8CD_41C2_2659CA4F3F4B.url = skin/Image_9A531F1A_8F31_F8CD_4
 ### Description
 
 ### Title
-tour.name = CURSO 360
+tour.name = UNIÃO 360 BRASIL
