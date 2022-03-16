@@ -7,11 +7,11 @@ LinkBehaviour_51B53E0F_79F7_F428_41D8_461E9F57AC66.source = https://api.whatsapp
 LinkBehaviour_504B7EC3_81DD_ADAB_41D4_9D97644B6563.source = https://api.whatsapp.com/send?phone=5548991534224
 LinkBehaviour_4CAC58E8_81C2_B566_41D1_8FB3908F2142.source = https://api.whatsapp.com/send?phone=5548991534224
 LinkBehaviour_BEB6694D_8B13_962A_419C_1720EAAFBAA4.source = https://t.me/thiago360graus
-WebFrame_8B90FFD3_91A8_DECC_41D5_03FAFC549020.url = https://www.facebook.com/groups/fotosevideos360br
-WebFrame_8937F298_91A8_617C_41E2_242E5F9B2A79.url = https://www.instagram.com/360wayoflife/
+LinkBehaviour_857F97C0_94ED_1A58_419A_BDE72C71F282.source = https://www.facebook.com/groups/fotosevideos360br
+LinkBehaviour_87A17706_94EF_1BD8_41B4_7C8B8B950879.source = https://www.instagram.com/360wayoflife/
 LinkBehaviour_590F0042_79F8_CC18_41DC_E0CB73106328.source = https://www.instagram.com/publiquepublicidade360/
-WebFrame_896D4691_91A8_214C_41E0_8F437E97627D.url = https://www.udemy.com/course/360wol-tour-virtual-3d/?referralCode=91408FB57CB6F77F0190
-WebFrame_88CBAFDC_91A8_DEF4_41D0_C6D3EA863BAC.url = https://www.youtube.com/channel/UC5Yvfz6dMFckbOYa7yP05hQ
+LinkBehaviour_86D99040_94ED_1658_41DC_3B3B18BE7895.source = https://www.udemy.com/course/360wol-tour-virtual-3d/?referralCode=91408FB57CB6F77F0190
+LinkBehaviour_85CBEF54_94EC_EA79_41E0_7752D8636CE8.source = https://www.youtube.com/channel/UC5Yvfz6dMFckbOYa7yP05hQ
 VideoUrl_8DD880A5_91BF_E155_41D1_4738680C1271.url = //www.youtube.com/embed/JixhNuQDO_A?v=JixhNuQDO_A&t=3s&ab_channel=THIAGO360GRAUS
 
 ## Hotspot
@@ -27,28 +27,26 @@ HotspotPanoramaOverlayTextImage_63319C56_74AF_6F3A_41D3_6B1EE1AD9F94.text = ÚLT
 ## Media
 
 ### Audio
+audiores_8E6A2108_94A5_17E8_41DC_B95E1AF3A74D.mp3Url = media/audio_8C1DD9E4_94A3_1658_41E1_2FDFB52C971A_pt.mp3
+audiores_8E6A2108_94A5_17E8_41DC_B95E1AF3A74D.oggUrl = media/audio_8C1DD9E4_94A3_1658_41E1_2FDFB52C971A_pt.ogg
+audiores_8E61030C_94A5_1BE9_41D0_FA0AB5E0F200.mp3Url = media/audio_8DC9EEA7_94A3_6AD8_41B4_6FBDF3344084_pt.mp3
+audiores_8E61030C_94A5_1BE9_41D0_FA0AB5E0F200.oggUrl = media/audio_8DC9EEA7_94A3_6AD8_41B4_6FBDF3344084_pt.ogg
 audiores_9E51C503_87E4_9716_41BE_9ACDCE4CF7B7.mp3Url = media/audio_900B3662_87E5_F516_41D5_63A3E20267F2_pt.mp3
 audiores_9E51C503_87E4_9716_41BE_9ACDCE4CF7B7.oggUrl = media/audio_900B3662_87E5_F516_41D5_63A3E20267F2_pt.ogg
 audiores_93234841_87A7_9D12_41D7_1AFC9358DEBF.mp3Url = media/audio_92AA5F48_87A4_B312_41C7_2D6F61D8EADA_pt.mp3
 audiores_93234841_87A7_9D12_41D7_1AFC9358DEBF.oggUrl = media/audio_92AA5F48_87A4_B312_41C7_2D6F61D8EADA_pt.ogg
-audiores_A658DD4D_87A5_B72D_41C7_01CCBAF2B81B.mp3Url = media/audio_99240796_87A4_F33E_41C2_032FF06EB8AD_pt.mp3
-audiores_A658DD4D_87A5_B72D_41C7_01CCBAF2B81B.oggUrl = media/audio_99240796_87A4_F33E_41C2_032FF06EB8AD_pt.ogg
-audiores_902839ED_87EC_9F12_41D8_896ED39FAAB8.mp3Url = media/audio_99F6CA1B_87ED_9D35_41C3_710963F8A40A_pt.mp3
-audiores_902839ED_87EC_9F12_41D8_896ED39FAAB8.oggUrl = media/audio_99F6CA1B_87ED_9D35_41C3_710963F8A40A_pt.ogg
 AudioResource_48E7ABDA_42DF_5D46_4186_03DB213BEAE8.mp3Url = media/audio_9C37FA58_B5BE_7A0D_41E0_4EFF4FA87685_pt.mp3
 AudioResource_48E7ABDA_42DF_5D46_4186_03DB213BEAE8.oggUrl = media/audio_9C37FA58_B5BE_7A0D_41E0_4EFF4FA87685_pt.ogg
-audiores_91FA3074_87EC_8DF2_41CB_6852C1E74DDE.mp3Url = media/audio_A5AB37B2_87E4_9377_41BE_9F8C83E5D1AD_pt.mp3
-audiores_91FA3074_87EC_8DF2_41CB_6852C1E74DDE.oggUrl = media/audio_A5AB37B2_87E4_9377_41BE_9F8C83E5D1AD_pt.ogg
 AudioResource_48E76BDA_42DF_5D46_41B6_E99FF0BF4034.mp3Url = media/audio_B45BDE9C_AE84_7009_41CA_EAC735EEA28B_pt.mp3
 AudioResource_48E76BDA_42DF_5D46_41B6_E99FF0BF4034.oggUrl = media/audio_B45BDE9C_AE84_7009_41CA_EAC735EEA28B_pt.ogg
 
 ### Image
-imlevel_9F8FC1D9_9168_62FC_41C0_7AF14AA9740A.url = media/panorama_84D52582_8AA4_5219_41D4_B50DA1FAC3B0_HS_8k7mlp9v_pt.png
-imlevel_9F8CD213_9168_614C_41CB_C0F9B26EBFE6.url = media/panorama_84D52582_8AA4_5219_41D4_B50DA1FAC3B0_HS_8miuvdz9_pt.png
-imlevel_9F89416D_9168_63D4_41CE_A896ED533412.url = media/panorama_84D52582_8AA4_5219_41D4_B50DA1FAC3B0_HS_ktdm8m2a_pt.png
-imlevel_820B613D_9168_63B4_4176_B3B4919B2F9B.url = media/panorama_84D52582_8AA4_5219_41D4_B50DA1FAC3B0_HS_sp3gk33t_pt.png
-imlevel_9C06197F_9168_23B4_41DC_B364118562DF.url = media/panorama_84D52582_8AA4_5219_41D4_B50DA1FAC3B0_HS_wawj2pmg_pt.png
-imlevel_9C8C1B12_9168_274F_41D5_D6448A841E7C.url = media/panorama_84D52582_8AA4_5219_41D4_B50DA1FAC3B0_HS_zqdan6zf_pt.png
+imlevel_8EF7BCFB_94A5_6E28_41D0_849CF0CD9014.url = media/panorama_8C79FFD5_94A7_EA7B_41DB_63EF5E2C2B85_HS_8k7mlp9v_pt.png
+imlevel_8E889D4C_94A5_6E68_41D0_E3EBA54A681A.url = media/panorama_8C79FFD5_94A7_EA7B_41DB_63EF5E2C2B85_HS_8miuvdz9_pt.png
+imlevel_8D12DC7B_94A5_6E28_41CC_A591B73F31F9.url = media/panorama_8C79FFD5_94A7_EA7B_41DB_63EF5E2C2B85_HS_ktdm8m2a_pt.png
+imlevel_8A844C43_94A5_6E58_4195_8378DA12A449.url = media/panorama_8C79FFD5_94A7_EA7B_41DB_63EF5E2C2B85_HS_sp3gk33t_pt.png
+imlevel_8E39A4E1_94A5_7E5B_41D0_4E2B58CE4EF5.url = media/panorama_8C79FFD5_94A7_EA7B_41DB_63EF5E2C2B85_HS_wawj2pmg_pt.png
+imlevel_8F92156C_94A5_7E28_41E1_AF0CE0C74C0E.url = media/panorama_8C79FFD5_94A7_EA7B_41DB_63EF5E2C2B85_HS_zqdan6zf_pt.png
 
 ### Title
 video_63F3900E_74AD_172A_41C8_37C5C55FDC2A.label = 20220310180737~5
@@ -56,20 +54,16 @@ panorama_5042BA49_755D_2B29_41D6_A86E72066D76.label = ENTRAR
 panorama_55CE5E49_7555_2B16_41D0_0F1494931BC2.label = PAGINA DE SENHA..01..
 panorama_98871595_8ADC_5237_41C0_857BADC5D1B0.label = SALA 360
 panorama_441A1787_74F7_F91A_41B8_1EF4DA704BB9.label = SALA JEFERSON
-panorama_84D52582_8AA4_5219_41D4_B50DA1FAC3B0.label = SALÃO PRINCIPAL
+panorama_8C79FFD5_94A7_EA7B_41DB_63EF5E2C2B85.label = SALÃO PRINCIPAL
 
 ### Video
-videolevel_C12E1CC7_9158_22D4_419F_F6CAC9DEE3D2.posterURL = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_poster_pt.jpg
-videolevel_C12E1CC7_9158_22D4_419F_F6CAC9DEE3D2.url = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_pt.mp4
+videolevel_8E77E909_94A4_F7E8_41C3_256EF069CEEA.posterURL = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_poster_pt.jpg
+videolevel_8E77E909_94A4_F7E8_41C3_256EF069CEEA.url = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_pt.mp4
 
 ## Popup
 
 ### Body
-htmlText_89313297_91A8_6174_41D4_506245FE2017.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-htmlText_8B902FD2_91A8_DECC_41E0_8FD5BEE256C8.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 htmlText_92869CB1_84CE_916D_41DE_B300D7FA5AAE.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-htmlText_88C9BFDA_91A8_DEFC_4197_561993D7B118.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-htmlText_894DF011_9157_E14C_41C1_D0000C5A9480.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ## Skin
 
