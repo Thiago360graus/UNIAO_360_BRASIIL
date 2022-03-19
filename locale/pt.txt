@@ -4,16 +4,17 @@
 
 ### URL
 LinkBehaviour_51B53E0F_79F7_F428_41D8_461E9F57AC66.source = https://api.whatsapp.com/send?phone=554891709444
-LinkBehaviour_D4A95845_95A5_1658_41AD_69FA93E5B74F.source = https://api.whatsapp.com/send?phone=5548991534224
 LinkBehaviour_ABCD678F_95A5_1AE8_41D6_8C8E0A8E2B06.source = https://api.whatsapp.com/send?phone=5548991534224
-WebFrame_B9FD5850_A31F_C2E3_41D8_C6E5A7E97CE0.url = https://maps.app.goo.gl/59KdAu5iUKjPD2N8A
-WebFrame_B870FB12_A300_C667_41D2_FF89E3BD68D7.url = https://maps.app.goo.gl/Nrinb9stJpRcopsg9
-WebFrame_B848C24C_A300_C6E3_41E1_0508A53E238A.url = https://maps.app.goo.gl/Q8zoV5d8yQzJiGFv7
-WebFrame_B91A8668_A300_CEA3_41D9_2138720DFAD7.url = https://maps.app.goo.gl/XCp89mNQjKih2RvC8
-WebFrame_BB22F77F_A300_CE9D_41D1_C7636A0EE591.url = https://maps.app.goo.gl/br13KZZVJwvKUXvk9
-WebFrame_B78A997F_A301_C29D_41D6_50132D4BE3FB.url = https://maps.app.goo.gl/pB4w8dV14rDd98us5
+LinkBehaviour_D4A95845_95A5_1658_41AD_69FA93E5B74F.source = https://api.whatsapp.com/send?phone=5548991534224
 LinkBehaviour_BEB6694D_8B13_962A_419C_1720EAAFBAA4.source = https://t.me/thiago360graus
+WebFrame_B316ACE3_A479_A610_41CC_9D91806024CB.url = https://www.cyber.xyz/ofabioqueiroz
 LinkBehaviour_857F97C0_94ED_1A58_419A_BDE72C71F282.source = https://www.facebook.com/groups/fotosevideos360br
+PopupWebFrameBehaviour_B6689271_A3D8_A2F1_41D0_011ECE691B05.url = https://www.google.com/maps/embed?pb=!4v1647721141459!6m8!1m7!1sCAoSLEFGMVFpcFBYMmZUcXlMSTZDbFF5UlJXeFdsQWhqMHUxb2Myc2VxTGFtRjA2!2m2!1d-27.1385256322723!2d-48.59494287882737!3f238.53!4f-1.6700000000000017!5f0.4000000000000002
+PopupWebFrameBehaviour_B0516FB9_A3C8_A271_41DD_75C21FB407EE.url = https://www.google.com/maps/embed?pb=!4v1647721522616!6m8!1m7!1sCAoSLEFGMVFpcFBsRExERDhFU3Fuazk1bEZuMVZuWnJtTHVyXzcxaS1PTklTT0hG!2m2!1d-27.13817389562681!2d-48.59522336594723!3f236.89906463769063!4f-6.748805851362263!5f0.4000000000000002
+PopupWebFrameBehaviour_B20EA517_A438_A631_4193_9845C146D07E.url = https://www.google.com/maps/embed?pb=!4v1647723539758!6m8!1m7!1sCAoSLEFGMVFpcFA5STB4SS1iS01pRWFJYTRkQndhOU9jblJYOW4xYXhpdV81ZVcz!2m2!1d-27.11975955597628!2d-48.60752874210797!3f57.41440281746123!4f-9.805802117925651!5f0.4000000000000002
+PopupWebFrameBehaviour_B260517F_A448_5EF1_41AB_73D819C6C723.url = https://www.google.com/maps/embed?pb=!4v1647724871796!6m8!1m7!1sCAoSLEFGMVFpcFB4bm41MGJaeXQyS0RkLXcwU3VBVUJpUnItaHJ5U2F2bW56SE9X!2m2!1d-27.2412296!2d-48.624422!3f0.6496436026554786!4f-5.128637660633686!5f0.4000000000000002
+PopupWebFrameBehaviour_B35A5690_A449_E20F_41DA_5FA4CAAFFB93.url = https://www.google.com/maps/embed?pb=!4v1647725811150!6m8!1m7!1sCAoSLEFGMVFpcE5aR3FYdzJkblJtR1pUeHB1bzZzS3JQLWVtaExOemRpV1NvU0g1!2m2!1d-27.24132524650539!2d-48.6357330653182!3f273.53728212288513!4f-5.0378498761380825!5f0.4000000000000002
+PopupWebFrameBehaviour_B31D4D47_A448_A611_41D2_6B067E340A1F.url = https://www.google.com/maps/embed?pb=!4v1647725870130!6m8!1m7!1sCAoSLEFGMVFpcE1qcWxtQUZiZ2VWZE85dXRNQ2hRdGlnT2hnRzNWMi00aWw1T3BH!2m2!1d-27.21361890738374!2d-48.89870658470853!3f90.57495847684957!4f-1.240446403681844!5f0.4000000000000002
 LinkBehaviour_87A17706_94EF_1BD8_41B4_7C8B8B950879.source = https://www.instagram.com/360wayoflife/
 LinkBehaviour_590F0042_79F8_CC18_41DC_E0CB73106328.source = https://www.instagram.com/publiquepublicidade360/
 LinkBehaviour_86D99040_94ED_1658_41DC_3B3B18BE7895.source = https://www.udemy.com/course/360wol-tour-virtual-3d/?referralCode=91408FB57CB6F77F0190
@@ -27,12 +28,15 @@ HotspotPanoramaOverlayTextImage_FBBBAFCD_8143_EBBF_41DA_3CB1E72E401F.text = #JUN
 HotspotPanoramaOverlayTextImage_52BD1A80_81C5_75A6_41D4_0B7A72637BA0.text = APRENDA SOBRE 360 AQUI!
 HotspotPanoramaOverlayTextImage_808EFEC2_A300_7FE7_41E3_971225F8DA91.text = Barbearia Pallazzo
 HotspotPanoramaOverlayTextImage_80D696D4_A303_CFE3_41D6_8446E1418FA1.text = Dani Melo  \
-Salão de Beleza e Estética em Tijucas
-HotspotPanoramaOverlayTextImage_BE2D0285_A300_466D_41DF_BAC1E86B9756.text = Delicato Móveis e Decorações - Loja de Móveis em Nova Trento
+Salão de Beleza e  \
+Estética em Tijucas
+HotspotPanoramaOverlayTextImage_BE2D0285_A300_466D_41DF_BAC1E86B9756.text = Delicato Móveis e Decorações  \
+ Loja de Móveis em Nova Trento
 HotspotPanoramaOverlayTextImage_BA466508_A300_C263_41DA_A23FD64F7B2C.text = LUIZ FERNANDO \
 PROFISSIONAL DE FOTOGRAFIA 360 GRAUS E ESPECIALISTA EM CAMERAS ONESHOT E DSLR. \
 ATUA EM SANTA CATARINA.
-HotspotPanoramaOverlayTextImage_BB89EA71_A300_46A5_41C2_ACA288F50258.text = Loja Super 10 - Loja de roupas em Tijucas
+HotspotPanoramaOverlayTextImage_BB89EA71_A300_46A5_41C2_ACA288F50258.text = Loja Super 10 - Loja de \
+ roupas em Tijucas
 HotspotPanoramaOverlayTextImage_94C269C6_8355_4093_41DE_4DA18DFAA3D8.text = METAVERSO 
 HotspotPanoramaOverlayTextImage_63319C56_74AF_6F3A_41D3_6B1EE1AD9F94.text = METAVERSO 360 GRAUS
 HotspotPanoramaOverlayTextImage_A4B2E6F7_8667_92FE_41D4_8A820EE51FC5.text = PRIMEIRO METAVERSO DE FOTOGRAFIA E VIDEOGRAFIA 360 GRAUS 
@@ -62,13 +66,13 @@ imlevel_8C293AE4_9F00_47A3_41CC_A66335C3BBF9.url = media/panorama_8EB63CFE_9F07_
 imlevel_88A18A8B_9F00_4665_41DE_8814B4AF0FCC.url = media/panorama_8EB63CFE_9F07_C39F_41C7_2B2CBAD2BC47_HS_sp3gk33t_pt.png
 imlevel_8D6BB3BB_9F00_45A5_41C1_C99DF14FD166.url = media/panorama_8EB63CFE_9F07_C39F_41C7_2B2CBAD2BC47_HS_wawj2pmg_pt.png
 imlevel_8DC16434_9F00_42A3_41E2_077BE88AA21B.url = media/panorama_8EB63CFE_9F07_C39F_41C7_2B2CBAD2BC47_HS_zqdan6zf_pt.png
-imlevel_BB5483AD_A300_45BD_41D0_78A331530899.url = media/panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B_HS_a1jf3inf_pt.png
-imlevel_804D92CE_A300_47FF_41E1_BC9B99EC5AB9.url = media/panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B_HS_arc5jonw_pt.png
-imlevel_804C92FC_A300_47A3_41C4_1D7E3C912C99.url = media/panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B_HS_ddk3ox7u_pt.png
-imlevel_8048325F_A300_469D_41C3_7EF0A615A812.url = media/panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B_HS_giallt7d_pt.png
-imlevel_804B0290_A300_4663_41DD_AE3A731A8D55.url = media/panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B_HS_mhsy2zce_pt.png
-imlevel_804AD2AA_A300_47A6_41D9_AD169E360F89.url = media/panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B_HS_p4qgo2pv_pt.png
-imlevel_804D7325_A300_46AD_41CD_9485BD6EBEFC.url = media/panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B_HS_u4thrtgk_pt.png
+imlevel_BEB588F6_A448_6FF0_41DC_E7E82267DF51.url = media/panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B_HS_a1jf3inf_pt.png
+imlevel_BEB1B7C8_A448_6210_41DC_F6A58A38D5B5.url = media/panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B_HS_arc5jonw_pt.png
+imlevel_BEB2B7F8_A448_61FF_41D4_856AAEFF1BBA.url = media/panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B_HS_ddk3ox7u_pt.png
+imlevel_BEBDE6D6_A448_6233_41AA_AF0C19900D8B.url = media/panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B_HS_giallt7d_pt.png
+imlevel_BEB0E74D_A448_6210_41DA_1063AF281C0D.url = media/panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B_HS_mhsy2zce_pt.png
+imlevel_BEB10788_A448_6210_41C4_81B7808DD098.url = media/panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B_HS_p4qgo2pv_pt.png
+imlevel_BEB458A6_A448_6E10_419B_F8658EE1046B.url = media/panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B_HS_u4thrtgk_pt.png
 
 ### Title
 video_63F3900E_74AD_172A_41C8_37C5C55FDC2A.label = 20220310180737~5
@@ -80,19 +84,17 @@ panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B.label = SALA LUIZ FERNANDO
 panorama_8EB63CFE_9F07_C39F_41C7_2B2CBAD2BC47.label = SALÃO PRINCIPAL
 
 ### Video
-videolevel_BB7BDC31_A300_42A5_41E2_5AA640CC9EF9.posterURL = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_poster_pt.jpg
-videolevel_BB7BDC31_A300_42A5_41E2_5AA640CC9EF9.url = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_pt.mp4
+videolevel_BE9E13FE_A448_A1F3_41C0_8F50A7EA4045.posterURL = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_poster_pt.jpg
+videolevel_BE9E13FE_A448_A1F3_41C0_8F50A7EA4045.url = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_pt.mp4
 
 ## Popup
 
 ### Body
-htmlText_B78C597F_A301_C29D_41D2_E10192847486.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-htmlText_B66F3017_A300_426D_41CF_1DF374DD22D1.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-htmlText_B8707B0F_A300_C67D_41E1_662EEA7629E2.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 htmlText_92869CB1_84CE_916D_41DE_B300D7FA5AAE.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-htmlText_B91AA668_A300_CEA3_41D8_9BE93665B59D.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-htmlText_B9FDA850_A31F_C2E3_41D5_A996C1E1F1AA.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-htmlText_BB22D77E_A300_CE9F_41CE_A1A88BF85616.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_B3107CE3_A479_A610_41E3_6A8CF106CC84.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Title
+window_B3163CE4_A479_A610_41AB_08FA36534B70.title = GALERIA 3D
 
 ## Skin
 
