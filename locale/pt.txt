@@ -3,12 +3,14 @@
 ## Action
 
 ### URL
+LinkBehaviour_8BB9C03B_ABCD_7520_41E5_4BAB05EA8AC2.source = https://api.whatsapp.com/message/4KIWAHPPA4WRI1?autoload=1&app_absent=0
 LinkBehaviour_81A9AAB5_A7C9_E270_41DF_843155A553CD.source = https://api.whatsapp.com/send?phone=5531994355178&text=Ol%C3%A1%2C%20bem%20vindo%2C%20deixe%20sua%20mensagem%2C%20responderei%20assim%20que%20poss%C3%ADvel!
 LinkBehaviour_51B53E0F_79F7_F428_41D8_461E9F57AC66.source = https://api.whatsapp.com/send?phone=554891709444
 LinkBehaviour_D4A95845_95A5_1658_41AD_69FA93E5B74F.source = https://api.whatsapp.com/send?phone=5548991534224
 LinkBehaviour_ABCD678F_95A5_1AE8_41D6_8C8E0A8E2B06.source = https://api.whatsapp.com/send?phone=5548991534224
 LinkBehaviour_B8841A01_A4C8_A211_41B8_E5598BE127EE.source = https://api.whatsapp.com/send?phone=5548991629483
 LinkBehaviour_BEB6694D_8B13_962A_419C_1720EAAFBAA4.source = https://t.me/thiago360graus
+WebFrame_8F14657D_ABB5_BF20_41C8_D8C21C058F8C.url = https://thiago360graus.github.io/KACAOEGATO/
 WebFrame_8B5C6D05_A449_E611_41D1_9AACFF2FCE14.url = https://www.brasilafora360.com.br/home
 WebFrame_B316ACE3_A479_A610_41CC_9D91806024CB.url = https://www.cyber.xyz/ofabioqueiroz
 LinkBehaviour_857F97C0_94ED_1A58_419A_BDE72C71F282.source = https://www.facebook.com/groups/fotosevideos360br
@@ -17,12 +19,17 @@ PopupWebFrameBehaviour_B0516FB9_A3C8_A271_41DD_75C21FB407EE.url = https://www.go
 PopupWebFrameBehaviour_B20EA517_A438_A631_4193_9845C146D07E.url = https://www.google.com/maps/embed?pb=!4v1647723539758!6m8!1m7!1sCAoSLEFGMVFpcFA5STB4SS1iS01pRWFJYTRkQndhOU9jblJYOW4xYXhpdV81ZVcz!2m2!1d-27.11975955597628!2d-48.60752874210797!3f57.41440281746123!4f-9.805802117925651!5f0.4000000000000002
 PopupWebFrameBehaviour_B260517F_A448_5EF1_41AB_73D819C6C723.url = https://www.google.com/maps/embed?pb=!4v1647724871796!6m8!1m7!1sCAoSLEFGMVFpcFB4bm41MGJaeXQyS0RkLXcwU3VBVUJpUnItaHJ5U2F2bW56SE9X!2m2!1d-27.2412296!2d-48.624422!3f0.6496436026554786!4f-5.128637660633686!5f0.4000000000000002
 PopupWebFrameBehaviour_B35A5690_A449_E20F_41DA_5FA4CAAFFB93.url = https://www.google.com/maps/embed?pb=!4v1647725811150!6m8!1m7!1sCAoSLEFGMVFpcE5aR3FYdzJkblJtR1pUeHB1bzZzS3JQLWVtaExOemRpV1NvU0g1!2m2!1d-27.24132524650539!2d-48.6357330653182!3f273.53728212288513!4f-5.0378498761380825!5f0.4000000000000002
-PopupWebFrameBehaviour_B31D4D47_A448_A611_41D2_6B067E340A1F.url = https://www.google.com/maps/embed?pb=!4v1647725870130!6m8!1m7!1sCAoSLEFGMVFpcE1qcWxtQUZiZ2VWZE85dXRNQ2hRdGlnT2hnRzNWMi00aWw1T3BH!2m2!1d-27.21361890738374!2d-48.89870658470853!3f90.57495847684957!4f-1.240446403681844!5f0.4000000000000002
 PopupWebFrameBehaviour_87F13243_A448_A211_41D8_DA371CA5AD65.url = https://www.google.com/maps/embed?pb=!4v1647744448133!6m8!1m7!1sCAoSLEFGMVFpcE9nd2lMaDc1MXVDVldXc0NZMUh5Z2M1VjRLaUZpRVJrTENlVDA0!2m2!1d-15.79039041859157!2d-47.89494102209014!3f14.519018387830402!4f-63.58995100875074!5f0.4000000000000002
 PopupWebFrameBehaviour_834044BB_A7F8_A670_41B6_BD80B1E7BF04.url = https://www.google.com/maps/embed?pb=!4v1647755848057!6m8!1m7!1sCAoSLEFGMVFpcE5xOS1oQXYxS2ZaV3E2YTFnRlRzUTJhWi1UQ3AxUjdoS2JpLTRX!2m2!1d-15.64177742828224!2d-47.80776489526033!3f202.97671826625387!4f-24.26541795665635!5f0.4000000000000002
 PopupWebFrameBehaviour_828D1385_A7C8_E211_41BA_BC1B035954FB.url = https://www.google.com/maps/embed?pb=!4v1647755921764!6m8!1m7!1sCAoSLEFGMVFpcE9nd2lMaDc1MXVDVldXc0NZMUh5Z2M1VjRLaUZpRVJrTENlVDA0!2m2!1d-15.79039041859157!2d-47.89494102209014!3f306.91002016858897!4f-30.510643627761787!5f0.5970117501821992
+PopupWebFrameBehaviour_B942139B_AB44_2B73_41DB_41A17FD3FECE.url = https://www.google.com/maps/embed?pb=!4v1647846897804!6m8!1m7!1sCAoSLEFGMVFpcFBYMmZUcXlMSTZDbFF5UlJXeFdsQWhqMHUxb2Myc2VxTGFtRjA2!2m2!1d-27.1385256322723!2d-48.59494287882737!3f250.8398254058182!4f-4.387419973607237!5f0.4000000000000002
+PopupWebFrameBehaviour_B82E7332_AB44_2B4D_41DA_F58C4C4AACEF.url = https://www.google.com/maps/embed?pb=!4v1647847002826!6m8!1m7!1sCAoSLEFGMVFpcFBsRExERDhFU3Fuazk1bEZuMVZuWnJtTHVyXzcxaS1PTklTT0hG!2m2!1d-27.13817389562681!2d-48.59522336594723!3f235.99119670061947!4f-6.7715347953939755!5f0.4000000000000002
+PopupWebFrameBehaviour_B8CDE4D1_AB44_6ECF_417C_5EBEC33EA08D.url = https://www.google.com/maps/embed?pb=!4v1647847042348!6m8!1m7!1sCAoSLEFGMVFpcFA5STB4SS1iS01pRWFJYTRkQndhOU9jblJYOW4xYXhpdV81ZVcz!2m2!1d-27.11975955597628!2d-48.60752874210797!3f58.08373863567019!4f-9.589334278708861!5f0.4000000000000002
+PopupWebFrameBehaviour_B9E142AB_AB44_6553_41D6_6FDFD12FDA2C.url = https://www.google.com/maps/embed?pb=!4v1647847079686!6m8!1m7!1sCAoSLEFGMVFpcFB4bm41MGJaeXQyS0RkLXcwU3VBVUJpUnItaHJ5U2F2bW56SE9X!2m2!1d-27.2412296!2d-48.624422!3f7.045947611889437!4f-4.1699825035471605!5f0.4000000000000002
+PopupWebFrameBehaviour_B8218B16_AB44_FB75_41DC_7CE36E8DB1C9.url = https://www.google.com/maps/embed?pb=!4v1647847127852!6m8!1m7!1sCAoSLEFGMVFpcFBpTm1tYWQ4Q2tuRmc2YnNyZEdxZjk2SXVSVUVQM0F5SVp2bWYw!2m2!1d-27.24132228760317!2d-48.63579214527614!3f269.06942390701056!4f17.195632596054153!5f0.4000000000000002
 LinkBehaviour_87A17706_94EF_1BD8_41B4_7C8B8B950879.source = https://www.instagram.com/360wayoflife/
 LinkBehaviour_83BD5276_A7CB_E2F3_41C6_1AEFEB2DCB21.source = https://www.instagram.com/brasilafora360/
+LinkBehaviour_89834E83_ABCC_EDE0_41E2_1EEA245F4200.source = https://www.instagram.com/csm360digital/
 LinkBehaviour_590F0042_79F8_CC18_41DC_E0CB73106328.source = https://www.instagram.com/publiquepublicidade360/
 LinkBehaviour_B8333344_A4CB_A217_41C4_2B47C08E5082.source = https://www.instagram.com/sight360graus/
 LinkBehaviour_86D99040_94ED_1658_41DC_3B3B18BE7895.source = https://www.udemy.com/course/360wol-tour-virtual-3d/?referralCode=91408FB57CB6F77F0190
@@ -37,12 +44,22 @@ HotspotPanoramaOverlayTextImage_BDA3C31A_A9B3_94E0_41DA_B9723A7BD147.text = A BR
 HotspotPanoramaOverlayTextImage_52BD1A80_81C5_75A6_41D4_0B7A72637BA0.text = APRENDA SOBRE 360 AQUI!
 HotspotPanoramaOverlayTextImage_808EFEC2_A300_7FE7_41E3_971225F8DA91.text = Barbearia Pallazzo
 HotspotPanoramaOverlayTextImage_8EB7D45A_A458_6630_41DD_C85DCC2B3991.text = CANAL 
+HotspotPanoramaOverlayTextImage_8A8AF77C_ABD4_9B20_41BB_80C149DB3809.text = CESINHA \
+> Foco em Comércios Locais \
+> Especialista em Google Meu Negócio | SEO \
+> Site 360 Graus \
+> Tour e Videos 360 Graus
 HotspotPanoramaOverlayTextImage_83C2DF1C_A447_E237_41E1_A4339D166055.text = CLIQUE NA TELA PARA PAUSAR
 HotspotPanoramaOverlayTextImage_80D696D4_A303_CFE3_41D6_8446E1418FA1.text = Dani Melo  \
 Salão de Beleza e  \
 Estética em Tijucas
 HotspotPanoramaOverlayTextImage_BE2D0285_A300_466D_41DF_BAC1E86B9756.text = Delicato Móveis e Decorações  \
  Loja de Móveis em Nova Trento
+HotspotPanoramaOverlayTextImage_8EC19FCA_ABDD_EB63_41B5_9AF1DB3DB81E.text = FAKE DRONE
+HotspotPanoramaOverlayTextImage_8BA76343_ABD3_9B60_41B3_1C189B4BDF9A.text = FAKE DRONE
+HotspotPanoramaOverlayTextImage_88DFD2A9_ABDF_B520_4189_55E7442EB0FB.text = FAKE DRONE
+HotspotPanoramaOverlayTextImage_B54BF96F_ABDD_9720_41E2_19AE190A702B.text = FAKE DRONE
+HotspotPanoramaOverlayTextImage_B50E0289_ABCC_95E1_41E5_43067173EF36.text = FAKE DRONE
 HotspotPanoramaOverlayTextImage_BA466508_A300_C263_41DA_A23FD64F7B2C.text = LUIZ FERNANDO \
 PROFISSIONAL DE FOTOGRAFIA 360 GRAUS E ESPECIALISTA EM CAMERAS ONESHOT E DSLR. \
 ATUA EM SANTA CATARINA.
@@ -53,6 +70,7 @@ HotspotPanoramaOverlayTextImage_63319C56_74AF_6F3A_41D3_6B1EE1AD9F94.text = META
 HotspotPanoramaOverlayTextImage_A4B2E6F7_8667_92FE_41D4_8A820EE51FC5.text = PRIMEIRO METAVERSO DE FOTOGRAFIA E VIDEOGRAFIA 360 GRAUS 
 HotspotPanoramaOverlayTextImage_BA30D4B4_A300_43A3_41E3_5850E4C42BA1.text = Pallazzo - Salão de Beleza em Meia Praia Itapema
 HotspotPanoramaOverlayTextImage_81AA984E_A438_AE13_419F_36106233978B.text = SITE
+HotspotPanoramaOverlayTextImage_881E2B6B_ABD4_AB21_41D9_AFD2CF544F66.text = SITE 360
 HotspotPanoramaOverlayTextImage_87B8B16F_A459_FE10_41C2_1D186CCE7932.text = TOUR VIRTUAL COM DRONE
 HotspotPanoramaOverlayTextImage_BBC4DFCB_A300_BDE6_41C1_B26FBFE20EB5.text = WILLTECH  \
 Assistência técnica em smartphones
@@ -93,36 +111,45 @@ imlevel_842B6127_A478_BE10_41CE_E9A7A94EC7E9.url = media/panorama_B6BB21A1_A300_
 imlevel_842D01A7_A478_BE11_41DD_C4ED2342550D.url = media/panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B_HS_mhsy2zce_pt.png
 imlevel_842EA1E9_A478_BE11_41C3_8F139F5A8250.url = media/panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B_HS_p4qgo2pv_pt.png
 imlevel_8432127F_A478_A2F0_41DF_C2172A4E9CF5.url = media/panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B_HS_u4thrtgk_pt.png
+imlevel_B8C66C77_AB4C_3DB3_41E4_6EFC542B75C2.url = media/panorama_B73DA226_ABF4_B520_41CD_05F7EA0C57C7_HS_26zvnd5q_pt.png
+imlevel_B8FA9D1C_AB4C_3F76_41B5_BF41600AF471.url = media/panorama_B73DA226_ABF4_B520_41CD_05F7EA0C57C7_HS_4r9i3fkd_pt.png
+imlevel_B8FC0D72_AB4C_3FCD_41D1_E6FB8E6F8077.url = media/panorama_B73DA226_ABF4_B520_41CD_05F7EA0C57C7_HS_ase3xrp4_pt.png
+imlevel_B8FD3D3C_AB4C_3FB6_41C7_FC874B4128E2.url = media/panorama_B73DA226_ABF4_B520_41CD_05F7EA0C57C7_HS_jrxag2ch_pt.png
+imlevel_B8FB2CF0_AB4C_3ECD_41E2_0F12CC69AEF7.url = media/panorama_B73DA226_ABF4_B520_41CD_05F7EA0C57C7_HS_ozoxmnzx_pt.png
+imlevel_B8C7DC59_AB4C_3DFF_41D3_2BEC02FC3A43.url = media/panorama_B73DA226_ABF4_B520_41CD_05F7EA0C57C7_HS_tamkyh1f_pt.png
+imlevel_B8F8DCD0_AB4C_3ECD_41D1_7A698C1F9F20.url = media/panorama_B73DA226_ABF4_B520_41CD_05F7EA0C57C7_HS_u14fjnql_pt.png
 
 ### Title
 video_63F3900E_74AD_172A_41C8_37C5C55FDC2A.label = 20220310180737~5
 panorama_5042BA49_755D_2B29_41D6_A86E72066D76.label = ENTRAR
 panorama_55CE5E49_7555_2B16_41D0_0F1494931BC2.label = PAGINA DE SENHA..01..
 panorama_98871595_8ADC_5237_41C0_857BADC5D1B0.label = SALA 360
+panorama_B73DA226_ABF4_B520_41CD_05F7EA0C57C7.label = SALA CESINHA
 panorama_441A1787_74F7_F91A_41B8_1EF4DA704BB9.label = SALA JEFERSON
 panorama_B6BB21A1_A300_45A5_41CA_CDA5CAF30B2B.label = SALA LUIZ FERNANDO
 panorama_8687C39E_A4C7_E230_41B4_EF0EA6249400.label = SALA...LELIO...
 panorama_B1EDBEC3_AA73_AD61_41E0_B6D1FD035306.label = SALÃO PRINCIPAL
-video_E9DCC7B5_A478_A271_41DE_00CCDE0B75BD.label = STORIE UNIVERSO DA PIZZA
+video_B3599425_AB44_6D57_41C0_9892B21E5FCA.label = Ultra High Definition 4K Neon Tunnel Screensaver~1
 video_BE0C7033_A8D6_495E_41CA_6055E732EA91.label = y2mate.com - Brasil Afora 360 Tour Virtual_360p~1
 video_B52D72A6_A8D1_C946_41DF_F1702A94E6CD.label = y2mate.com - Brasil Afora 360 Tour Virtual_360p~2
 
 ### Video
-videolevel_B415347F_AA54_9D20_41D2_C0396936797C.posterURL = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_poster_pt.jpg
-videolevel_B415347F_AA54_9D20_41D2_C0396936797C.url = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_pt.mp4
-videolevel_B41205E0_AA54_9F20_41AE_15675F96C49B.posterURL = media/video_B52D72A6_A8D1_C946_41DF_F1702A94E6CD_poster_pt.jpg
-videolevel_B41205E0_AA54_9F20_41AE_15675F96C49B.url = media/video_B52D72A6_A8D1_C946_41DF_F1702A94E6CD_pt.mp4
-videolevel_B41B83D6_AA54_9B60_41C7_A1DCCE75AC50.posterURL = media/video_BE0C7033_A8D6_495E_41CA_6055E732EA91_poster_pt.jpg
-videolevel_B41B83D6_AA54_9B60_41C7_A1DCCE75AC50.url = media/video_BE0C7033_A8D6_495E_41CA_6055E732EA91_pt.mp4
-videolevel_B413158C_AA54_9FE0_41DA_35E0759F369B.posterURL = media/video_E9DCC7B5_A478_A271_41DE_00CCDE0B75BD_poster_pt.jpg
-videolevel_B413158C_AA54_9FE0_41DA_35E0759F369B.url = media/video_E9DCC7B5_A478_A271_41DE_00CCDE0B75BD_pt.mp4
+videolevel_B4BB2CEC_ABCF_DED6_41E3_61DDDA9383A2.posterURL = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_poster_pt.jpg
+videolevel_B4BB2CEC_ABCF_DED6_41E3_61DDDA9383A2.url = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_pt.mp4
+videolevel_B4BBEC5D_ABCF_DDF7_41B2_1F6B1753FD19.posterURL = media/video_B3599425_AB44_6D57_41C0_9892B21E5FCA_poster_pt.jpg
+videolevel_B4BBEC5D_ABCF_DDF7_41B2_1F6B1753FD19.url = media/video_B3599425_AB44_6D57_41C0_9892B21E5FCA_pt.mp4
+videolevel_B4BE4DFC_ABCF_DEB5_41D2_B2C914CCAD22.posterURL = media/video_B52D72A6_A8D1_C946_41DF_F1702A94E6CD_poster_pt.jpg
+videolevel_B4BE4DFC_ABCF_DEB5_41D2_B2C914CCAD22.url = media/video_B52D72A6_A8D1_C946_41DF_F1702A94E6CD_pt.mp4
+videolevel_B4A6CBCF_ABCF_DAD3_41DC_3C4967E2CB9E.posterURL = media/video_BE0C7033_A8D6_495E_41CA_6055E732EA91_poster_pt.jpg
+videolevel_B4A6CBCF_ABCF_DAD3_41DC_3C4967E2CB9E.url = media/video_BE0C7033_A8D6_495E_41CA_6055E732EA91_pt.mp4
 
 ## Popup
 
 ### Body
-htmlText_B3107CE3_A479_A610_41E3_6A8CF106CC84.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-htmlText_88CEDECF_A448_6211_41D3_7C0865011266.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 htmlText_8D465421_A448_6610_41C0_8A13A06EDDEB.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_88CEDECF_A448_6211_41D3_7C0865011266.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_B3107CE3_A479_A610_41E3_6A8CF106CC84.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_8EAC199C_ABB4_F7E0_41D6_F8705EF71A0C.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ### Title
 window_B3163CE4_A479_A610_41AB_08FA36534B70.title = GALERIA 3D
