@@ -33,7 +33,7 @@ VideoUrl_966D6E32_A44F_A270_41DF_7DE11FF892EA.url = //www.youtube.com/embed/k-6l
 
 ### Text
 HotspotPanoramaOverlayTextImage_FBBBAFCD_8143_EBBF_41DA_3CB1E72E401F.text = #JUNTOS.CHEGAREMOS.MAIS.LONGE 
-HotspotPanoramaOverlayTextImage_87B8B16F_A459_FE10_41C2_1D186CCE7932.text = A BRASIL AFORA 360, é uma empresa certificada pelo Google, possuindo o selo de Fotógrafo de Confiança do Google Street View Trusted em fotos 360 e Marketing de localização do Google Meu Negócio.  Uma empresa Full Service que atua com alta tecnologia também em Drones,  produção de comerciais para TV e Rádio, edição e cinegrafia para eventos!
+HotspotPanoramaOverlayTextImage_BDA3C31A_A9B3_94E0_41DA_B9723A7BD147.text = A BRASIL AFORA 360, é uma empresa certificada pelo Google, possuindo o selo de Fotógrafo de Confiança do Google Street View Trusted em fotos 360 e Marketing de localização do Google Meu Negócio.  Uma empresa Full Service que atua com alta tecnologia também em Drones,  produção de comerciais para TV e Rádio, edição e cinegrafia para eventos!
 HotspotPanoramaOverlayTextImage_52BD1A80_81C5_75A6_41D4_0B7A72637BA0.text = APRENDA SOBRE 360 AQUI!
 HotspotPanoramaOverlayTextImage_808EFEC2_A300_7FE7_41E3_971225F8DA91.text = Barbearia Pallazzo
 HotspotPanoramaOverlayTextImage_8EB7D45A_A458_6630_41DD_C85DCC2B3991.text = CANAL 
@@ -53,6 +53,7 @@ HotspotPanoramaOverlayTextImage_63319C56_74AF_6F3A_41D3_6B1EE1AD9F94.text = META
 HotspotPanoramaOverlayTextImage_A4B2E6F7_8667_92FE_41D4_8A820EE51FC5.text = PRIMEIRO METAVERSO DE FOTOGRAFIA E VIDEOGRAFIA 360 GRAUS 
 HotspotPanoramaOverlayTextImage_BA30D4B4_A300_43A3_41E3_5850E4C42BA1.text = Pallazzo - Salão de Beleza em Meia Praia Itapema
 HotspotPanoramaOverlayTextImage_81AA984E_A438_AE13_419F_36106233978B.text = SITE
+HotspotPanoramaOverlayTextImage_87B8B16F_A459_FE10_41C2_1D186CCE7932.text = TOUR VIRTUAL COM DRONE
 HotspotPanoramaOverlayTextImage_BBC4DFCB_A300_BDE6_41C1_B26FBFE20EB5.text = WILLTECH  \
 Assistência técnica em smartphones
 
@@ -77,7 +78,8 @@ AudioResource_48E76BDA_42DF_5D46_41B6_E99FF0BF4034.oggUrl = media/audio_B45BDE9C
 ### Image
 imlevel_8BC8855D_A449_A631_41D4_FE1576B596D1.url = media/panorama_8687C39E_A4C7_E230_41B4_EF0EA6249400_HS_0oev7osl_pt.png
 imlevel_8BCB7543_A449_A610_41A1_7A4477E3D403.url = media/panorama_8687C39E_A4C7_E230_41B4_EF0EA6249400_HS_6kpspgi3_pt.png
-imlevel_837626C4_A7C8_A217_41B5_9403AEEC7F16.url = media/panorama_8687C39E_A4C7_E230_41B4_EF0EA6249400_HS_ibyvw10k_pt.png
+imlevel_BB2F656C_A9CF_7F20_41E0_06370E1EEB3C.url = media/panorama_8687C39E_A4C7_E230_41B4_EF0EA6249400_HS_7cewg1w9_pt.png
+imlevel_BA4154CF_A9CF_7D60_41D4_A48017CB1157.url = media/panorama_8687C39E_A4C7_E230_41B4_EF0EA6249400_HS_ibyvw10k_pt.png
 imlevel_8BC79640_A449_A20F_41D1_C75CA7F89939.url = media/panorama_8687C39E_A4C7_E230_41B4_EF0EA6249400_HS_mmiy0t1o_pt.png
 imlevel_88C95392_A4F9_A230_41C9_DABED00D0989.url = media/panorama_89690FD2_A4DF_E230_41E4_21D5A2A78C40_HS_8miuvdz9_pt.png
 imlevel_88CB1305_A4F9_A211_41E2_8032118468DB.url = media/panorama_89690FD2_A4DF_E230_41E4_21D5A2A78C40_HS_ktdm8m2a_pt.png
@@ -106,14 +108,14 @@ video_BE0C7033_A8D6_495E_41CA_6055E732EA91.label = y2mate.com - Brasil Afora 360
 video_B52D72A6_A8D1_C946_41DF_F1702A94E6CD.label = y2mate.com - Brasil Afora 360 Tour Virtual_360p~2
 
 ### Video
-videolevel_8022886B_A976_B9CE_41E4_D264CE085C09.posterURL = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_poster_pt.jpg
-videolevel_8022886B_A976_B9CE_41E4_D264CE085C09.url = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_pt.mp4
-videolevel_805B4997_A976_BB46_41CF_EC18737B1949.posterURL = media/video_B52D72A6_A8D1_C946_41DF_F1702A94E6CD_poster_pt.jpg
-videolevel_805B4997_A976_BB46_41CF_EC18737B1949.url = media/video_B52D72A6_A8D1_C946_41DF_F1702A94E6CD_pt.mp4
-videolevel_8020A818_A976_B94A_41E4_EC266A93F494.posterURL = media/video_BE0C7033_A8D6_495E_41CA_6055E732EA91_poster_pt.jpg
-videolevel_8020A818_A976_B94A_41E4_EC266A93F494.url = media/video_BE0C7033_A8D6_495E_41CA_6055E732EA91_pt.mp4
-videolevel_805A0963_A976_BBFE_41C4_38BF098CAA5F.posterURL = media/video_E9DCC7B5_A478_A271_41DE_00CCDE0B75BD_poster_pt.jpg
-videolevel_805A0963_A976_BBFE_41C4_38BF098CAA5F.url = media/video_E9DCC7B5_A478_A271_41DE_00CCDE0B75BD_pt.mp4
+videolevel_BA595E76_A9CF_6D20_41B8_DCAF96CBA105.posterURL = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_poster_pt.jpg
+videolevel_BA595E76_A9CF_6D20_41B8_DCAF96CBA105.url = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_pt.mp4
+videolevel_BA58DF89_A9CF_6BE0_41E1_7370AFA2FCF3.posterURL = media/video_B52D72A6_A8D1_C946_41DF_F1702A94E6CD_poster_pt.jpg
+videolevel_BA58DF89_A9CF_6BE0_41E1_7370AFA2FCF3.url = media/video_B52D72A6_A8D1_C946_41DF_F1702A94E6CD_pt.mp4
+videolevel_BA550E1E_A9CF_6CE3_41D1_FDC4F4DD7753.posterURL = media/video_BE0C7033_A8D6_495E_41CA_6055E732EA91_poster_pt.jpg
+videolevel_BA550E1E_A9CF_6CE3_41D1_FDC4F4DD7753.url = media/video_BE0C7033_A8D6_495E_41CA_6055E732EA91_pt.mp4
+videolevel_BA580F58_A9CF_6B60_41E0_A718D0365FD7.posterURL = media/video_E9DCC7B5_A478_A271_41DE_00CCDE0B75BD_poster_pt.jpg
+videolevel_BA580F58_A9CF_6B60_41E0_A718D0365FD7.url = media/video_E9DCC7B5_A478_A271_41DE_00CCDE0B75BD_pt.mp4
 
 ## Popup
 
