@@ -6,22 +6,22 @@
     <meta name="viewport" id="metaViewport" content="user-scalable=no, initial-scale=1, width=device-width, viewport-fit=cover" data-tdv-general-scale="0.5"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <script src="lib/tdvplayer.js?v=1647912257798"></script>
-    <link rel="preload" href="locale/pt.txt?v=1647912257798" as="fetch" crossorigin="anonymous"/>
-	<link rel="preload" href="script.js?v=1647912257798" as="script"/>
-	<link rel="preload" href="media/panorama_B1EDBEC3_AA73_AD61_41E0_B6D1FD035306_0/r/3/0_0.jpg?v=1647912257798" as="image"/>
-	<link rel="preload" href="media/panorama_B1EDBEC3_AA73_AD61_41E0_B6D1FD035306_0/l/3/0_0.jpg?v=1647912257798" as="image"/>
-	<link rel="preload" href="media/panorama_B1EDBEC3_AA73_AD61_41E0_B6D1FD035306_0/u/3/0_0.jpg?v=1647912257798" as="image"/>
-	<link rel="preload" href="media/panorama_B1EDBEC3_AA73_AD61_41E0_B6D1FD035306_0/d/3/0_0.jpg?v=1647912257798" as="image"/>
-	<link rel="preload" href="media/panorama_B1EDBEC3_AA73_AD61_41E0_B6D1FD035306_0/f/3/0_0.jpg?v=1647912257798" as="image"/>
-	<link rel="preload" href="media/panorama_B1EDBEC3_AA73_AD61_41E0_B6D1FD035306_0/b/3/0_0.jpg?v=1647912257798" as="image"/>
-	<script src="https://remote.3dvista.com/lib/tdvremote.js?v=1647912257798" type="text/javascript"></script>
+    <script src="lib/tdvplayer.js?v=1647924469430"></script>
+    <link rel="preload" href="locale/pt.txt?v=1647924469430" as="fetch" crossorigin="anonymous"/>
+	<link rel="preload" href="script.js?v=1647924469430" as="script"/>
+	<link rel="preload" href="media/panorama_B1EDBEC3_AA73_AD61_41E0_B6D1FD035306_0/r/3/0_0.jpg?v=1647924469430" as="image"/>
+	<link rel="preload" href="media/panorama_B1EDBEC3_AA73_AD61_41E0_B6D1FD035306_0/l/3/0_0.jpg?v=1647924469430" as="image"/>
+	<link rel="preload" href="media/panorama_B1EDBEC3_AA73_AD61_41E0_B6D1FD035306_0/u/3/0_0.jpg?v=1647924469430" as="image"/>
+	<link rel="preload" href="media/panorama_B1EDBEC3_AA73_AD61_41E0_B6D1FD035306_0/d/3/0_0.jpg?v=1647924469430" as="image"/>
+	<link rel="preload" href="media/panorama_B1EDBEC3_AA73_AD61_41E0_B6D1FD035306_0/f/3/0_0.jpg?v=1647924469430" as="image"/>
+	<link rel="preload" href="media/panorama_B1EDBEC3_AA73_AD61_41E0_B6D1FD035306_0/b/3/0_0.jpg?v=1647924469430" as="image"/>
+	<script src="https://remote.3dvista.com/lib/tdvremote.js?v=1647924469430" type="text/javascript"></script>
 	<meta name="description" content="Virtual Tour"/>
 	<meta name="theme-color" content="#000000"/>
-    <script src="script.js?v=1647912257798"></script>
+    <script src="script.js?v=1647924469430"></script>
     <script type="text/javascript">
         var tour;
-        var devicesUrl = {"general":"script_general.js?v=1647912257798","mobile":{"portrait":"script_mobile.js?v=1647912257798","landscape":"script_general.js?v=1647912257798"},"ipad":"script_general.js?v=1647912257798"};
+        var devicesUrl = {"general":"script_general.js?v=1647924469430","mobile":{"portrait":"script_mobile.js?v=1647924469430","landscape":"script_general.js?v=1647924469430"},"ipad":"script_general.js?v=1647924469430"};
 
         (function()
         {
@@ -64,9 +64,9 @@
 
             var settings = new TDV.PlayerSettings();
             settings.set(TDV.PlayerSettings.CONTAINER, document.getElementById('viewer'));
-            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1647912257798');
-            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1647912257798');
-            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1647912257798');
+            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1647924469430');
+            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1647924469430');
+            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1647924469430');
 
             tour = new TDV.Tour(settings, devicesUrl);
             tour.bind(TDV.Tour.EVENT_TOUR_INITIALIZED, onVirtualTourInit);
@@ -312,7 +312,7 @@
         #viewer { z-index:1; }
         #preloadContainer { z-index:2; opacity:0; background-color:rgba(0,0,0,1); transition: opacity 0.5s; -webkit-transition: opacity 0.5s; -moz-transition: opacity 0.5s; -o-transition: opacity 0.5s;}
     </style>
-    <link rel="stylesheet" href="fonts.css?v=1647912257798">
+    <link rel="stylesheet" href="fonts.css?v=1647924469430">
 </head>
 <body>
     <div id="preloadContainer" class="fill-viewport"><div style="z-index: 4; position: absolute; background-image: url('loading/HTMLImage_BD33C4CA_A8D2_4ACE_41E1_7997E658B830.jpg'); background-size: contain; background-repeat: no-repeat; background-position: center center; overflow: hidden; right: 34.45%; bottom: 6.93%; width: 36.07%; height: 89.39%"></div></div>
